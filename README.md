@@ -24,6 +24,7 @@ London South Bank University, UK**
 - Build clear, professional visualizations  
 - Produce a polished PDF insights report
 
+--- 
 
 ## 📁 Repository Structure
 ```
@@ -53,7 +54,7 @@ Ecommerce-Sales-Analysis/
 │
 └── README.md
 ```
-
+---
 
 ## 🧹 1. Data Cleaning
 
@@ -121,6 +122,7 @@ Product categories with consistently high order value and volume.
 Top customers generate high revenue via bulk purchases.  
 Avg order value varies massively across customers.
 
+--- 
 
 ## 📈 Visualizations
 
@@ -166,6 +168,6 @@ It includes:
 
 CSV files are compressed to keep the repository size efficient.
 
----
+
 
 
