@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis (2010–2011)
+# 🐍 Python-Based E-Commerce Sales Analysis (2010–2011)
 
 Comprehensive e-commerce analytics project using Python. Covering data cleaning, feature engineering, revenue trends, customer behavior, product performance, and return analysis. Built to showcase strong data analysis skills through clean notebooks, reproducible code, and clear business insights.
 
